@@ -15,9 +15,9 @@ Starting the Application:
   - Run *npm install* to install the dependencies
   - Run *npm start* to start the application
   - Go to localhost:3000 in your preferred browser
-  - Voila! Time to play some Connect Four!
 
 
+Voila! Time to play some Connect Four!
 All games and data are stored relative to the session, which restarts on refresh, so be careful.
 
-If any issues are found, please make sure to report them!
+If any issues are found, please make sure to report them.
