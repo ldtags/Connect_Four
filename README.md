@@ -1,7 +1,7 @@
 # Connect_Four
 
 Do you want to play a quick game of Connect Four? 
-Do you want to play as your favorite characters, Jesse and Walter White from the award-winning Breaking Bad? Or a variety of other player choices?
+Do you want to play as your favorite characters, Jesse Pinkman and Walter White, from the award-winning Breaking Bad? Or a variety of other player choices?
 Then you're in the right place!
 
 This is a Connect Four web application hosted on a Node.js server.
