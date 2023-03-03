@@ -1,0 +1,41 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#game-board {
+  aspect-ratio: 7 / 6.4 !important;
+  width: 70% !important;
+}
+
+#board-body {
+  height: 83.33% !important;
+}
+
+.board-row {
+  height: 16.67% !important;
+}
+
+.token {
+  height: 90%;
+  width: 90%;
+}
+
+.game-list-table {
+  max-height: 75% !important;
+  max-width: 100% !important;
+}
+
+.game-list-row {
+  max-height: 20% !important;
+  width: 100% !important;
+}
+
+.game-list-cell {
+  max-height: 100% !important;
+  max-width: 100% !important;
+}
