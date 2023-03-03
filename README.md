@@ -9,12 +9,14 @@ In order to play the game, make sure to have the following installed:
   - Node.js
   - Node Package Manager
 
+
 Starting the Application:
   - Go to the main directory of the application in your preferred terminal
   - Run *npm install* to install the dependencies
   - Run *npm start* to start the application
   - Go to localhost:3000 in your preferred browser
   - Voila! Time to play some Connect Four!
+
 
 All games and data are stored relative to the session, which restarts on refresh, so be careful.
 
